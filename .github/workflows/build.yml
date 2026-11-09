@@ -16,8 +16,8 @@ on:
         default: ''
 
 env:
-  NDK_VERSION: '26.3.11579264'
-  CMAKE_VERSION: '3.22.1'
+  NDK_VERSION: '27.0.12077973'
+  CMAKE_VERSION: '3.28.1'
   BUILD_TYPE: Release
   ANDROID_API: '21'
   ABI: arm64-v8a
